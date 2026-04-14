@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Manthan Dubey 👨‍💻 <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50">
-
 I'm a passionate **Software Developer** and **Full Stack Developer** from India. I specialize in building web and mobile applications, focusing on performance, scalability, and user experience.
 
 
