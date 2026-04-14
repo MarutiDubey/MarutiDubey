@@ -78,9 +78,6 @@ I'm a passionate **Software Developer** and **Full Stack Developer** from India.
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarutiDubey-26&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=MarutiDubey-26&theme=react-dark)
 
 
-<!--START_SECTION:waka-->
-
-```txt
 Total Time: 985 hrs 59 mins
 
 TypeScript          480 hrs 55 mins       🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.78 %
