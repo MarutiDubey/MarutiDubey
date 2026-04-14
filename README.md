@@ -75,22 +75,8 @@ I'm a passionate **Software Developer** and **Full Stack Developer** from India.
 
 ---
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh-Singhal-26&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=Utkarsh-Singhal-26&theme=react-dark)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarutiDubey-26&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=MarutiDubey-26&theme=react-dark)
 
----
-
-## 🛠 Open Source PRs
-
-<!-- START_LATEST_PRS -->
-- DavidHDev/vue-bits#150
-- DavidHDev/react-bits#884
-- lingdojo/kana-dojo#1156
-- stdlib-js/stdlib#9837
-- getfloresta/floresta-site#8
-- TheOrcDev/github-creature#5
-<!-- END_LATEST_PRS -->
-
----
 
 <!--START_SECTION:waka-->
 
