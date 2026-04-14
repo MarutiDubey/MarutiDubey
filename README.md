@@ -1,4 +1,11 @@
 # Hi there! 👋 I'm Manthan Dubey 👨‍💻 <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="55">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=Manthan+Dubey" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=Full-Stack+Developer;Software+Engineer;Web+Developer" alt="Typing SVG" />
+</p>
+
 I'm a passionate **Software Developer** and **Full Stack Developer** from India. I specialize in building web and mobile applications, focusing on performance, scalability, and user experience.
 
 
