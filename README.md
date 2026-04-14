@@ -16,6 +16,7 @@ I'm a passionate **Software Developer** and **Full Stack Developer** from India.
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/manthandubey)
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:dubeymanthan007@gmail.com)
 [![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/manthandubeyy/)
+[![Leetcode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/KRATOS0007/)
 
 ---
 
