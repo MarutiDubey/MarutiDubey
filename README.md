@@ -2,8 +2,6 @@
 
 I'm a passionate **Software Developer** and **Full Stack Developer** from India. I specialize in building web and mobile applications, focusing on performance, scalability, and user experience.
 
-![GitHub Profile Views](https://gitviews.com/user/utkarsh-singhal-26.svg?style=flat&label-color=%23555&color=%23f59e0b) ![GitHub Repo Views](https://gitviews.com/user/utkarsh-singhal-26/repos.svg?style=flat&label-color=%23555&color=%23f59e0b)
-
 
 ---
 
@@ -75,9 +73,9 @@ I'm a passionate **Software Developer** and **Full Stack Developer** from India.
 
 ---
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarutiDubey-26&theme=react-dark)](https://github-readme-activity-graph.vercel.app/graph?username=MarutiDubey-26&theme=react-dark)
+<!--START_SECTION:waka-->
 
-
+```txt
 Total Time: 985 hrs 59 mins
 
 TypeScript          480 hrs 55 mins       🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.78 %
