@@ -1,9 +1,15 @@
 # Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/> I'm Manthan Dubey 👨‍💻 <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="55">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=Manthan+Dubey" alt="Typing SVG" />
+
+  <!-- Name - neon matrix green -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=56&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&height=80&lines=Manthan+Dubey" />
+
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=1000&height=80&lines=Full-Stack+Developer;Software+Engineer;Web+Developer" alt="Typing SVG" />
+
+  <!-- Roles - softer green contrast -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=00CC7A&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Developer;Software+Engineer;Web+Developer;Building+Real+World+Projects" />
+
 </p>
 
 I'm a passionate **Software Developer** and **Full Stack Developer** from India. I specialize in building web and mobile applications, focusing on performance, scalability, and user experience.
