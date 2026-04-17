@@ -2,18 +2,12 @@
 
 <p align="center">
 
-  <!-- Name - neon matrix green -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=56&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&height=80&lines=Manthan+Dubey" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=56&pause=500&speed=80&color=f1c232&center=true&vCenter=true&width=900&height=80&lines=Manthan+Dubey" />
   <br/>
-
-  <!-- Roles - softer green contrast -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=00CC7A&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Developer;Software+Engineer;Web+Developer;Building+Real+World+Projects" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&speed=80&color=00CC7A&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Developer;Software+Engineer;Web+Developer;Building+Real+World+Projects" />
 </p>
 
 I'm a passionate **Software Developer** and **Full Stack Developer** from India. I specialize in building web and mobile applications, focusing on performance, scalability, and user experience.
-
 
 ---
 
