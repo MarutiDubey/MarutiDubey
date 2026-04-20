@@ -81,19 +81,7 @@ I'm a passionate **Software Developer** and **Full Stack Developer** from India.
 
 ---
 
-<!--START_SECTION:waka-->
 
-```txt
-Total Time: 985 hrs 59 mins
-
-TypeScript          480 hrs 55 mins       🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.78 %
-Python              239 hrs 2 mins        🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.24 %
-Vue.js              63 hrs 48 mins        🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.47 %
-JavaScript          46 hrs 20 mins        🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.70 %
-JSON                41 hrs 17 mins        🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.19 %
-```
-
-<!--END_SECTION:waka-->
 <div align="center">
   <img src="./game.gif" alt="Game" width="900">
 </div>
