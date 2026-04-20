@@ -94,3 +94,6 @@ JSON                41 hrs 17 mins        🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
+<div align="center">
+  <img src="./game.gif" alt="Game" width="900">
+</div>
