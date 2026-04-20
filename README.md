@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=56&pause=500&speed=80&color=f1c232&center=true&vCenter=true&width=900&height=80&lines=Manthan+Dubey+ƪ(˘⌣˘)ʃ" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=64&pause=500&speed=80&color=FFD700&center=true&vCenter=true&width=1000&height=100&lines=Manthan+Dubey+⚡" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&speed=80&color=00CC7A&center=true&vCenter=true&width=1000&height=60&lines=Full-Stack+Developer;Software+Engineer;Web+Developer;Building+Real+World+Projects" />
 </p>
