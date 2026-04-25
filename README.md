@@ -85,3 +85,5 @@ I'm a passionate **Software Developer** and **Full Stack Developer** from India.
 <div align="center">
   <img src="./game.gif" alt="Game" width="900">
 </div>
+
+<a href="https://u8views.com/github/MarutiDubey"><img src="https://u8views.com/api/v1/github/profiles/193297876/views/day-week-month-total-count.svg"></a>
