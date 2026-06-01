@@ -82,9 +82,7 @@ I'm a passionate **Software Developer** and **Full Stack Developer** from India.
 ---
 
 
-<div align="center">
-  <img src="./game.gif" alt="Game" width="900">
-</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header"/>
